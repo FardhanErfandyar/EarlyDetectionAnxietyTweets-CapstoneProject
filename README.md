@@ -10,7 +10,7 @@ Proyek ini bertujuan untuk membangun sebuah sistem cerdas yang mampu menganalisi
 
 Dataset yang digunakan adalah hasil crawling data menggunakan tweet-harvest.
 
-**Link Dataset Repositori:** [https://drive.google.com/drive/folders/1qy7ZGMFAfDwSgzimG0KGGQLSXmVlBS7a?usp=sharing]([https://github.com/bilionr/kecemasan_twitter.git](https://drive.google.com/drive/folders/1qy7ZGMFAfDwSgzimG0KGGQLSXmVlBS7a?usp=sharing)) 
+**Link Dataset Repositori:** [https://drive.google.com/drive/folders/1qy7ZGMFAfDwSgzimG0KGGQLSXmVlBS7a?usp=sharing](https://drive.google.com/drive/folders/1qy7ZGMFAfDwSgzimG0KGGQLSXmVlBS7a?usp=sharing) 
 
 ---
 
